@@ -64,7 +64,7 @@ export default function Home() {
       <section id="home" className="relative h-screen flex items-center justify-center text-center text-white">
         <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/40 to-green-950/90 z-10"></div>
         <img
-          src="/images/image1.webp"
+          src="/rbr-safari/images/image1.webp"
           alt="Sigiriya RBR Hero"
           className="absolute inset-0 w-full h-full object-cover z-0 animate-slow-zoom"
         />
@@ -95,9 +95,9 @@ export default function Home() {
         <div className="container mx-auto px-5 lg:px-20 flex flex-col lg:flex-row items-center gap-16 relative z-10">
 
           <div className="lg:w-1/2 w-full grid grid-cols-2 gap-4 sticky top-28">
-            <img src="/images/image2.webp" alt="Jeep Safari" className="col-span-2 w-full h-[400px] object-cover rounded-3xl shadow-2xl" data-aos="fade-right" />
-            <img src="/images/image4.webp" alt="Elephant" className="w-full h-[220px] object-cover rounded-3xl shadow-lg" data-aos="fade-up" data-aos-delay="100" />
-            <img src="/images/image5.webp" alt="Nature" className="w-full h-[220px] object-cover rounded-3xl shadow-lg" data-aos="fade-up" data-aos-delay="200" />
+            <img src="/rbr-safari/images/image2.webp" alt="Jeep Safari" className="col-span-2 w-full h-[400px] object-cover rounded-3xl shadow-2xl" data-aos="fade-right" />
+            <img src="/rbr-safari/images/image4.webp" alt="Elephant" className="w-full h-[220px] object-cover rounded-3xl shadow-lg" data-aos="fade-up" data-aos-delay="100" />
+            <img src="/rbr-safari/images/image5.webp" alt="Nature" className="w-full h-[220px] object-cover rounded-3xl shadow-lg" data-aos="fade-up" data-aos-delay="200" />
           </div>
 
           <div className="lg:w-1/2 w-full lg:pl-8" data-aos="fade-left">
@@ -166,9 +166,9 @@ export default function Home() {
           </div>
 
           <div className="lg:w-1/2 w-full grid grid-cols-2 gap-4">
-            <img src="/images/image3.webp" alt="Cooking Class" className="col-span-2 w-full h-[400px] object-cover rounded-3xl shadow-2xl order-first lg:order-last" data-aos="fade-left" />
-            <img src="/images/image6.webp" alt="Spices" className="w-full h-[220px] object-cover rounded-3xl shadow-lg" data-aos="fade-up" data-aos-delay="100" />
-            <img src="/images/image7.webp" alt="Clay Pots" className="w-full h-[220px] object-cover rounded-3xl shadow-lg" data-aos="fade-up" data-aos-delay="200" />
+            <img src="/rbr-safari/images/image3.webp" alt="Cooking Class" className="col-span-2 w-full h-[400px] object-cover rounded-3xl shadow-2xl order-first lg:order-last" data-aos="fade-left" />
+            <img src="/rbr-safari/images/image6.webp" alt="Spices" className="w-full h-[220px] object-cover rounded-3xl shadow-lg" data-aos="fade-up" data-aos-delay="100" />
+            <img src="/rbr-safari/images/image7.webp" alt="Clay Pots" className="w-full h-[220px] object-cover rounded-3xl shadow-lg" data-aos="fade-up" data-aos-delay="200" />
           </div>
         </div>
       </section>
@@ -215,7 +215,7 @@ export default function Home() {
 
       {/* --- Footer / Contact Section --- */}
       <section id="contact" className="py-24 bg-green-950 text-white text-center relative overflow-hidden">
-        <div className="absolute inset-0 bg-[url('/images/image1.webp')] bg-cover bg-center opacity-10 blur-sm z-0"></div>
+        <div className="absolute inset-0 bg-[url('/rbr-safari/images/image1.webp')] bg-cover bg-center opacity-10 blur-sm z-0"></div>
 
         <div className="container mx-auto px-5 relative z-10" data-aos="zoom-in">
           <h2 className="text-4xl md:text-5xl font-bold mb-6 font-serif">Plan Your Adventure Today</h2>
